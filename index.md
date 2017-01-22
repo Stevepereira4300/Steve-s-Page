@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+<html>
 
-You can use the [editor on GitHub](https://github.com/Stevepereira4300/Steve-s-Page/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<body background="images6.jpg">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<title>Steve's Webpage</title>
 
-```markdown
-Syntax highlighted code block
+<article>
+<center><h1>MAKE A DIFFERENCE</h2></center>
+<p><h3>We are all gifted with a unique set of skills and abilities. With those abilities we can make extra-ordinary things happen in the world around us, or not. It is completely up to you whether you want your life to make a difference and what difference you want your life to make. Many people set lofty goals for their lives and want to be remembered as visionaries, they want to change and save the world. Others want to be remembered as the kind man or women down the street who always helped and always listened if you needed help. Who do you think is the better person? The one who changes the world or the one who saves the individual? Do what not have to do incredible things; just being there for the people around you can save someone from a meaningless life and help them lead the life they were meant to live. Small things matter Changing the life of another person is an incredible feeling and it is completely within your grasp. You can do this by deciding to become a mentor for a young ambitious person. You can help them avoid the mistakes you have made and help them learn from the ones they will inevitably make themselves. Fight for someone's rights You will often see someone get treated unfairly. It happens both professionally and socially, individuals who deserve recognition do not get it. By taking up the fight and making sure others get what they deserve and earned you will be a true hero. You will make a lasting impact on their lives and you will be rewarded with love and help in the future when you are in need. The law of karma says that whatever you do you will get back three fold, helping others is therefore a selfish act, but still a good act, one that you should do without fear, with love and with the knowledge that you will one day be rewarded. Go the distance Compromise is the enemy of long term commitment, if you have committed to helping someone by being their mentor or by fighting for their rights, doesn't stop half way. Go the distance and see it through. Make sure something happens so all your work doesn't end up as only talk. Conclusion In truth we might all be here to help each other, we might all be a part of a machine that fosters cooperation, or were not. We might just be here to make the best of the situation for ourselves. In any case, helping others brings happiness and prosperity into your own life, so for whatever reason you chose to help others, it will always help you in return. The difference between stopping half way and finishing isn't much in terms of the work you put in, but worlds apart in the difference for the individual you are helping.</h3></p>
 
-# Header 1
-## Header 2
-### Header 3
+<hr>   </hr>
 
-- Bulleted
-- List
+<p><h2>YOUR RATINGS HERE I HOPE YOU LIKED IT</h2></p>
 
-1. Numbered
-2. List
+<select>
+<option value="    ">    </option>
+<option value="very good">Very Good</option>
+<option value="good">Good</option>
+<option value="okay">Okay</option>
+<option value="bad">Bad</option>
 
-**Bold** and _Italic_ and `Code` text
+<button type="button">Click Me!</button>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<hr>   </hr>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Stevepereira4300/Steve-s-Page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<menu type="context" id="mymenu">
+<menuitem label="Refresh"
+oneclick="window.location.reload();"
+icon="ico_reload.png">
+</menuitem>
+<menu label="Share on...">
+<menuitem label="Twitter"
+icon="ico_twitter.png"
+oneclick="window.open('//twitter.com/intent/tweet?
+text='+window.location.href);">
+</menuitem>
+<menuitem label="Facebook"
+ic="ico_facebook.png"
+oneclick="window.open('//facebook.com/sharer/sharer.php?
+u='+window.location.href);">
+</menuitem>
+<menuitem label="Email This Page"
+oneclick="window.location='mailto:?
+body='+window.location.href;">
+</menuitem>
+</menu>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+
+</html>

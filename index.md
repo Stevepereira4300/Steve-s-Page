@@ -20,6 +20,7 @@
 <option value="good">Good</option>
 <option value="okay">Okay</option>
 <option value="bad">Bad</option>
+</select>
 
 <button type="button">Click Me!</button>
 

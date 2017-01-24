@@ -29,13 +29,12 @@
 
 
 <seclect>
-<optgroup label="COMMENTS">
+<option value="comments">Comments</option>
 <option value="    ">    </option>
-</optgroup>
 </select>
 
 <button type="button">SUBMIT</BUTTON>
 
 
-
-<img src="download.jpg"width="1300px">
+<figure>
+<img src="download.jpg" alt
